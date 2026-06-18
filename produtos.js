@@ -7,3 +7,5 @@ const produtos = {
         console.log(`${chave}: ${produtos[chave]}`);
     }
     console.log(Object.keys(produtos));
+
+    console.log(Object.values(produtos));
